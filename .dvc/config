@@ -1,0 +1,4 @@
+[core]
+    remote = s3storage
+['remote "s3storage"']
+    url = s3://imaging-platform-ssf/projects/2019_05_28_Neuronal_Cell_Painting/workspace/software/2019_05_28_Neuronal_Cell_Painting_DVC
